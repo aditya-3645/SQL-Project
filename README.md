@@ -31,8 +31,6 @@ SQL → Data extraction and query building
 
 Excel / Power BI (optional if used) → Data visualization & dashboards
 
-Jupyter Notebook / Python (optional if used) → Advanced analysis (if applicable)
-
 📊 Key Analysis & Insights
 
 Distribution of hotel ratings and customer reviews
