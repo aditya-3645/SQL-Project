@@ -1,0 +1,501 @@
+﻿user_id,user_gender,country,age,traveller_type,join_date
+1,Female,United Kingdom,35-44,Solo,29-09-2024
+2,Male,United Kingdom,25-34,Solo,29-11-2023
+3,Female,Mexico,25-34,Family,03-04-2022
+4,Male,India,35-44,Family,02-12-2023
+5,Other,Japan,25-34,Solo,18-12-2021
+6,Male,Brazil,25-34,Couple,27-06-2025
+7,Male,United Kingdom,25-34,Business,13-07-2022
+8,Female,Spain,45-54,Couple,05-09-2024
+9,Female,India,35-44,Solo,01-03-2025
+10,Male,United Kingdom,45-54,Solo,14-11-2024
+11,Other,China,25-34,Couple,25-02-2022
+12,Female,India,25-34,Solo,13-12-2024
+13,Male,Italy,25-34,Couple,31-07-2022
+14,Male,United States,18-24,Family,29-06-2021
+15,Female,Nigeria,35-44,Couple,18-10-2021
+16,Male,New Zealand,25-34,Business,16-07-2023
+17,Female,United States,25-34,Family,28-01-2025
+18,Male,India,18-24,Couple,16-04-2023
+19,Male,Australia,35-44,Couple,26-11-2021
+20,Female,Spain,55+,Solo,01-01-2022
+21,Male,Australia,25-34,Couple,16-09-2020
+22,Male,Germany,35-44,Solo,14-08-2022
+23,Female,United Kingdom,35-44,Solo,27-12-2024
+24,Male,France,25-34,Solo,18-04-2024
+25,Male,Japan,25-34,Business,14-11-2024
+26,Male,China,35-44,Family,25-01-2022
+27,Female,United States,45-54,Couple,06-03-2025
+28,Male,China,25-34,Family,23-09-2023
+29,Female,Brazil,45-54,Solo,08-05-2025
+30,Female,India,18-24,Family,11-10-2021
+31,Male,Japan,25-34,Solo,17-10-2023
+32,Male,China,35-44,Family,09-07-2025
+33,Female,India,35-44,Family,05-03-2022
+34,Female,United Kingdom,35-44,Solo,26-04-2024
+35,Male,Australia,55+,Business,10-02-2021
+36,Male,Russia,18-24,Couple,26-03-2024
+37,Male,Australia,18-24,Couple,19-08-2020
+38,Male,United States,35-44,Couple,07-04-2023
+39,Female,Egypt,25-34,Family,17-08-2020
+40,Female,Russia,35-44,Solo,02-04-2024
+41,Male,Spain,18-24,Solo,17-02-2022
+42,Male,United Kingdom,35-44,Business,09-11-2023
+43,Other,Argentina,35-44,Family,08-08-2023
+44,Male,Germany,35-44,Couple,18-08-2021
+45,Male,United States,35-44,Family,01-05-2023
+46,Female,Germany,35-44,Family,18-08-2022
+47,Male,Germany,35-44,Family,30-01-2022
+48,Female,New Zealand,45-54,Solo,18-04-2025
+49,Female,United States,45-54,Solo,10-04-2024
+50,Female,India,25-34,Family,09-03-2021
+51,Female,United Kingdom,45-54,Couple,21-10-2023
+52,Male,Japan,25-34,Business,23-05-2025
+53,Male,South Africa,45-54,Family,11-01-2023
+54,Male,United States,25-34,Couple,20-05-2021
+55,Female,United Kingdom,55+,Business,13-06-2021
+56,Female,Spain,55+,Family,01-03-2024
+57,Male,Russia,35-44,Solo,23-11-2022
+58,Male,China,35-44,Business,21-09-2021
+59,Female,United States,25-34,Couple,07-03-2025
+60,Male,United States,45-54,Solo,14-06-2025
+61,Female,Japan,55+,Solo,11-05-2024
+62,Female,Australia,25-34,Solo,30-06-2023
+63,Female,France,25-34,Couple,30-06-2023
+64,Female,United States,45-54,Business,03-12-2021
+65,Male,United States,25-34,Solo,13-10-2021
+66,Other,United States,25-34,Couple,07-04-2025
+67,Male,United States,35-44,Couple,11-05-2021
+68,Other,Mexico,25-34,Solo,13-12-2024
+69,Male,Germany,35-44,Business,14-12-2022
+70,Male,Germany,55+,Family,07-01-2024
+71,Male,New Zealand,25-34,Couple,28-05-2025
+72,Female,China,35-44,Solo,25-07-2022
+73,Female,United Kingdom,18-24,Solo,06-03-2025
+74,Male,France,35-44,Business,20-06-2022
+75,Female,Italy,45-54,Business,19-09-2023
+76,Female,Australia,25-34,Family,22-04-2023
+77,Female,Italy,35-44,Family,16-05-2022
+78,Female,Japan,45-54,Business,13-08-2022
+79,Male,United States,35-44,Couple,16-12-2020
+80,Male,Australia,25-34,Couple,28-01-2022
+81,Other,Australia,35-44,Couple,25-06-2023
+82,Female,Thailand,25-34,Couple,12-01-2021
+83,Male,United States,25-34,Solo,03-07-2024
+84,Female,United Arab Emirates,35-44,Family,16-01-2022
+85,Male,Japan,35-44,Family,28-04-2023
+86,Male,South Korea,45-54,Business,27-07-2023
+87,Female,Germany,18-24,Solo,07-03-2022
+88,Male,France,45-54,Family,23-08-2024
+89,Female,Argentina,25-34,Couple,24-05-2025
+90,Male,United Kingdom,45-54,Family,28-10-2024
+91,Female,United Kingdom,25-34,Family,15-08-2024
+92,Female,United States,25-34,Solo,09-10-2023
+93,Male,Turkey,35-44,Couple,26-08-2021
+94,Female,United Kingdom,45-54,Couple,10-09-2024
+95,Male,United States,18-24,Couple,28-12-2023
+96,Male,China,25-34,Business,10-07-2024
+97,Male,New Zealand,35-44,Family,30-01-2023
+98,Female,Germany,25-34,Solo,01-02-2025
+99,Female,United States,25-34,Solo,27-08-2020
+100,Male,China,35-44,Couple,13-05-2023
+101,Male,China,25-34,Solo,26-01-2023
+102,Female,India,25-34,Couple,19-03-2024
+103,Other,Italy,35-44,Solo,17-08-2020
+104,Male,China,25-34,Family,18-08-2023
+105,Male,United Arab Emirates,18-24,Solo,06-06-2022
+106,Other,Brazil,45-54,Couple,28-11-2023
+107,Female,Netherlands,35-44,Business,03-09-2020
+108,Male,Argentina,25-34,Couple,03-03-2023
+109,Female,United Kingdom,45-54,Couple,18-02-2024
+110,Male,Canada,25-34,Business,20-04-2025
+111,Male,United States,25-34,Couple,27-11-2022
+112,Other,France,35-44,Business,03-08-2021
+113,Male,United States,35-44,Couple,02-05-2024
+114,Female,China,25-34,Family,23-01-2024
+115,Female,United States,45-54,Family,17-03-2021
+116,Female,Japan,35-44,Solo,27-03-2023
+117,Male,China,55+,Solo,11-08-2023
+118,Other,Netherlands,25-34,Couple,29-05-2024
+119,Female,United Arab Emirates,35-44,Solo,20-08-2020
+120,Female,New Zealand,35-44,Couple,26-06-2021
+121,Male,Canada,25-34,Solo,26-08-2023
+122,Female,Germany,25-34,Family,15-03-2023
+123,Female,France,25-34,Couple,24-04-2022
+124,Female,France,35-44,Family,24-05-2024
+125,Female,United Kingdom,35-44,Family,31-12-2021
+126,Female,Brazil,25-34,Couple,12-05-2024
+127,Female,Canada,25-34,Business,10-05-2025
+128,Male,China,55+,Family,04-05-2023
+129,Male,Canada,35-44,Couple,23-08-2021
+130,Female,United States,25-34,Couple,01-07-2024
+131,Male,Japan,25-34,Family,22-11-2020
+132,Female,Australia,35-44,Family,18-10-2020
+133,Male,Brazil,55+,Business,04-11-2024
+134,Female,China,35-44,Couple,06-11-2022
+135,Male,France,25-34,Family,12-05-2021
+136,Female,United Kingdom,25-34,Couple,22-12-2023
+137,Male,South Africa,25-34,Family,19-01-2025
+138,Female,Spain,25-34,Family,03-02-2022
+139,Other,Australia,55+,Business,11-12-2023
+140,Male,Turkey,18-24,Business,03-03-2023
+141,Male,United Kingdom,35-44,Couple,18-01-2024
+142,Male,Spain,35-44,Business,24-11-2021
+143,Female,Brazil,35-44,Family,07-10-2020
+144,Male,Germany,25-34,Family,11-07-2025
+145,Female,Germany,35-44,Family,16-12-2022
+146,Male,France,45-54,Couple,11-02-2024
+147,Male,United States,35-44,Couple,26-10-2022
+148,Other,Netherlands,45-54,Family,23-12-2020
+149,Other,France,45-54,Business,27-05-2024
+150,Female,Germany,35-44,Solo,16-07-2024
+151,Female,Argentina,55+,Couple,26-03-2022
+152,Female,Spain,35-44,Family,06-06-2024
+153,Female,United States,35-44,Business,25-06-2023
+154,Female,United Kingdom,35-44,Family,08-06-2021
+155,Male,United States,35-44,Couple,28-03-2021
+156,Male,Russia,25-34,Couple,03-04-2024
+157,Male,Canada,18-24,Family,05-03-2021
+158,Male,United Kingdom,35-44,Business,29-01-2023
+159,Female,United States,25-34,Business,05-06-2025
+160,Male,China,25-34,Couple,02-09-2024
+161,Female,United States,25-34,Family,07-05-2022
+162,Male,Germany,35-44,Solo,21-05-2025
+163,Other,United Kingdom,55+,Couple,21-01-2021
+164,Male,South Korea,55+,Couple,18-04-2023
+165,Female,Italy,25-34,Solo,08-11-2022
+166,Female,China,35-44,Solo,03-10-2021
+167,Female,United States,35-44,Couple,17-03-2022
+168,Female,United Kingdom,55+,Couple,02-03-2025
+169,Male,Turkey,18-24,Family,02-05-2025
+170,Other,United Kingdom,35-44,Solo,14-09-2021
+171,Female,Italy,35-44,Family,23-01-2021
+172,Male,United Arab Emirates,45-54,Couple,04-11-2024
+173,Other,France,45-54,Solo,30-01-2021
+174,Male,Germany,35-44,Solo,10-01-2025
+175,Female,Russia,55+,Couple,21-10-2023
+176,Male,Germany,25-34,Couple,02-02-2025
+177,Female,India,55+,Family,19-02-2024
+178,Male,France,25-34,Family,08-07-2025
+179,Male,France,45-54,Couple,06-07-2025
+180,Female,Germany,25-34,Solo,11-06-2025
+181,Male,Germany,25-34,Business,26-09-2023
+182,Female,United States,35-44,Business,15-03-2023
+183,Female,Japan,25-34,Couple,17-08-2020
+184,Male,Nigeria,25-34,Couple,21-09-2022
+185,Female,United States,35-44,Family,16-09-2024
+186,Female,Spain,55+,Couple,28-10-2021
+187,Male,Germany,25-34,Family,17-02-2024
+188,Female,Thailand,25-34,Solo,28-07-2023
+189,Female,New Zealand,45-54,Family,17-05-2024
+190,Female,Nigeria,25-34,Family,10-06-2023
+191,Female,United Kingdom,35-44,Family,14-02-2025
+192,Male,China,45-54,Couple,15-05-2024
+193,Female,France,25-34,Family,31-03-2022
+194,Male,Japan,55+,Solo,21-07-2023
+195,Female,Canada,18-24,Couple,14-12-2022
+196,Female,United Kingdom,25-34,Couple,17-06-2023
+197,Male,Singapore,35-44,Couple,11-12-2023
+198,Male,China,45-54,Family,03-01-2023
+199,Male,United Kingdom,35-44,Couple,15-07-2025
+200,Female,United States,25-34,Business,09-02-2024
+201,Female,Argentina,35-44,Couple,12-09-2021
+202,Male,United Kingdom,35-44,Family,28-05-2025
+203,Other,Turkey,45-54,Couple,23-03-2024
+204,Male,Italy,25-34,Business,04-08-2024
+205,Female,United States,45-54,Solo,25-03-2021
+206,Male,Nigeria,25-34,Business,18-10-2022
+207,Female,Mexico,35-44,Family,07-11-2023
+208,Male,United Kingdom,25-34,Family,25-10-2021
+209,Male,Mexico,18-24,Couple,04-02-2023
+210,Other,Germany,25-34,Solo,09-06-2022
+211,Male,United States,25-34,Couple,23-06-2024
+212,Male,United Kingdom,35-44,Solo,10-11-2024
+213,Female,United States,25-34,Business,09-08-2024
+214,Male,Japan,35-44,Solo,07-11-2023
+215,Female,South Africa,45-54,Solo,09-01-2023
+216,Male,Germany,25-34,Couple,08-03-2025
+217,Male,Thailand,25-34,Couple,01-08-2021
+218,Male,United States,45-54,Solo,12-08-2022
+219,Other,Russia,35-44,Business,15-03-2023
+220,Female,Germany,25-34,Solo,07-07-2024
+221,Male,China,35-44,Couple,14-01-2022
+222,Female,Canada,35-44,Solo,22-05-2023
+223,Other,United States,25-34,Couple,19-01-2022
+224,Male,United Kingdom,35-44,Business,26-05-2024
+225,Female,France,25-34,Couple,27-12-2023
+226,Female,United Arab Emirates,55+,Business,21-03-2023
+227,Male,United Kingdom,35-44,Family,20-12-2024
+228,Female,Egypt,25-34,Couple,09-12-2022
+229,Male,Brazil,45-54,Business,03-06-2025
+230,Male,France,45-54,Couple,29-04-2023
+231,Other,China,55+,Couple,16-06-2025
+232,Female,United States,25-34,Couple,24-12-2020
+233,Female,United Kingdom,45-54,Business,04-11-2022
+234,Male,France,35-44,Business,24-10-2021
+235,Male,Thailand,35-44,Couple,16-06-2025
+236,Male,United States,18-24,Solo,31-01-2024
+237,Male,United States,18-24,Solo,26-06-2021
+238,Female,Australia,35-44,Couple,24-08-2024
+239,Male,South Korea,35-44,Family,13-09-2023
+240,Male,United Kingdom,25-34,Business,03-09-2020
+241,Female,United Kingdom,18-24,Family,30-12-2024
+242,Female,Netherlands,25-34,Couple,15-03-2025
+243,Male,Spain,35-44,Couple,09-02-2024
+244,Male,Thailand,18-24,Family,09-09-2020
+245,Male,United States,18-24,Solo,12-04-2024
+246,Female,New Zealand,55+,Family,30-09-2020
+247,Male,France,45-54,Couple,04-03-2023
+248,Female,Canada,25-34,Couple,28-07-2021
+249,Male,United States,35-44,Solo,23-04-2025
+250,Male,United States,25-34,Solo,06-08-2025
+251,Female,China,35-44,Couple,28-02-2023
+252,Male,China,45-54,Family,06-04-2025
+253,Female,Egypt,18-24,Solo,05-03-2022
+254,Female,France,35-44,Business,24-03-2022
+255,Female,New Zealand,55+,Solo,25-04-2025
+256,Female,India,55+,Couple,25-10-2020
+257,Female,United States,55+,Family,03-10-2021
+258,Male,Mexico,45-54,Couple,17-02-2023
+259,Male,United Arab Emirates,45-54,Business,06-11-2021
+260,Male,Mexico,45-54,Couple,26-11-2020
+261,Female,Germany,25-34,Couple,02-05-2023
+262,Male,United Kingdom,35-44,Family,19-04-2021
+263,Male,France,55+,Business,03-07-2024
+264,Male,France,18-24,Couple,29-01-2022
+265,Male,Canada,35-44,Family,22-07-2023
+266,Male,United Arab Emirates,25-34,Solo,18-12-2023
+267,Female,Canada,35-44,Business,31-07-2021
+268,Male,Mexico,55+,Couple,17-07-2023
+269,Female,Japan,25-34,Family,11-05-2022
+270,Female,Argentina,45-54,Family,02-02-2023
+271,Male,China,45-54,Family,22-07-2024
+272,Other,Canada,45-54,Couple,05-02-2023
+273,Female,United Kingdom,25-34,Business,26-11-2022
+274,Female,Nigeria,35-44,Solo,10-01-2024
+275,Female,Germany,45-54,Family,02-05-2023
+276,Female,United Arab Emirates,18-24,Couple,16-11-2024
+277,Male,United Kingdom,45-54,Family,15-04-2025
+278,Female,Japan,25-34,Solo,30-09-2022
+279,Male,Australia,35-44,Couple,28-01-2021
+280,Female,South Korea,18-24,Business,06-12-2024
+281,Female,Germany,35-44,Business,10-03-2025
+282,Male,United Arab Emirates,25-34,Couple,27-11-2020
+283,Male,United States,35-44,Couple,26-03-2023
+284,Male,Germany,45-54,Solo,22-08-2023
+285,Male,Germany,18-24,Solo,20-06-2022
+286,Female,United Kingdom,25-34,Family,12-06-2025
+287,Female,United Arab Emirates,25-34,Business,20-08-2020
+288,Male,Australia,18-24,Business,24-08-2021
+289,Female,Japan,35-44,Couple,11-01-2021
+290,Male,Japan,25-34,Couple,11-11-2020
+291,Male,South Korea,45-54,Couple,28-07-2022
+292,Female,Mexico,45-54,Couple,28-02-2021
+293,Male,United Kingdom,35-44,Solo,29-11-2023
+294,Male,United Kingdom,25-34,Couple,28-01-2024
+295,Female,Germany,55+,Couple,30-11-2022
+296,Male,United States,18-24,Solo,13-09-2021
+297,Male,Japan,18-24,Couple,27-04-2022
+298,Male,China,45-54,Family,05-03-2022
+299,Male,Thailand,35-44,Couple,05-03-2023
+300,Female,Australia,45-54,Solo,13-03-2021
+301,Male,China,55+,Solo,23-12-2024
+302,Male,China,35-44,Couple,27-05-2022
+303,Female,Mexico,18-24,Couple,04-01-2023
+304,Male,United States,35-44,Couple,04-12-2021
+305,Female,United Kingdom,25-34,Family,19-01-2023
+306,Male,India,35-44,Solo,22-01-2021
+307,Female,South Korea,18-24,Business,25-06-2022
+308,Other,South Korea,25-34,Family,24-04-2025
+309,Male,Italy,25-34,Couple,06-05-2024
+310,Male,Japan,25-34,Solo,27-10-2024
+311,Female,United Kingdom,35-44,Solo,14-05-2023
+312,Male,United Kingdom,55+,Couple,26-03-2023
+313,Male,Nigeria,25-34,Family,10-08-2020
+314,Other,China,18-24,Family,24-04-2023
+315,Male,Mexico,55+,Business,20-07-2023
+316,Male,United Kingdom,25-34,Solo,06-10-2021
+317,Female,China,35-44,Solo,22-09-2022
+318,Female,China,25-34,Couple,30-05-2023
+319,Female,China,45-54,Family,26-12-2024
+320,Female,Brazil,35-44,Couple,23-09-2022
+321,Female,United Arab Emirates,45-54,Solo,21-01-2025
+322,Female,United States,25-34,Solo,18-04-2023
+323,Male,France,45-54,Solo,24-10-2024
+324,Male,China,25-34,Couple,27-03-2025
+325,Male,Brazil,25-34,Business,23-02-2022
+326,Male,France,45-54,Family,26-03-2021
+327,Male,United States,25-34,Family,29-12-2023
+328,Female,Germany,35-44,Couple,04-09-2022
+329,Male,India,45-54,Family,26-07-2024
+330,Male,Singapore,18-24,Family,08-12-2024
+331,Female,Netherlands,18-24,Solo,14-08-2020
+332,Female,France,35-44,Couple,07-12-2024
+333,Male,Nigeria,25-34,Couple,23-10-2021
+334,Male,France,45-54,Business,16-05-2024
+335,Other,Japan,35-44,Family,10-03-2023
+336,Male,United Arab Emirates,25-34,Couple,14-05-2023
+337,Female,Brazil,18-24,Business,30-12-2023
+338,Male,Germany,25-34,Couple,01-10-2022
+339,Female,United Kingdom,18-24,Couple,24-12-2021
+340,Male,Russia,45-54,Business,28-04-2025
+341,Female,Netherlands,18-24,Business,12-10-2023
+342,Other,Netherlands,45-54,Solo,19-01-2022
+343,Female,Brazil,35-44,Family,01-01-2021
+344,Male,South Korea,45-54,Solo,17-11-2023
+345,Female,France,18-24,Business,28-04-2025
+346,Female,New Zealand,35-44,Solo,16-02-2025
+347,Other,United Arab Emirates,25-34,Couple,25-10-2023
+348,Female,United Arab Emirates,45-54,Family,12-04-2024
+349,Female,China,25-34,Couple,26-04-2021
+350,Female,Russia,25-34,Couple,17-02-2022
+351,Male,South Korea,55+,Couple,13-10-2024
+352,Female,Brazil,35-44,Business,08-06-2025
+353,Male,United Arab Emirates,55+,Business,14-07-2025
+354,Male,Germany,25-34,Family,14-06-2023
+355,Female,United Kingdom,25-34,Solo,12-11-2020
+356,Female,United States,35-44,Business,20-03-2025
+357,Male,China,18-24,Family,02-08-2022
+358,Male,United Kingdom,25-34,Solo,19-01-2022
+359,Female,France,25-34,Family,04-04-2024
+360,Other,Spain,35-44,Solo,28-01-2025
+361,Male,France,35-44,Solo,23-09-2023
+362,Male,Brazil,18-24,Business,17-11-2023
+363,Male,Germany,35-44,Solo,25-10-2021
+364,Male,United Kingdom,55+,Family,06-03-2021
+365,Female,Turkey,55+,Solo,20-03-2022
+366,Male,Mexico,18-24,Couple,13-12-2021
+367,Other,India,55+,Family,21-10-2020
+368,Male,Germany,35-44,Solo,28-05-2024
+369,Female,United Kingdom,25-34,Couple,26-09-2022
+370,Female,Mexico,25-34,Solo,12-03-2021
+371,Female,United States,55+,Family,20-01-2022
+372,Female,Japan,25-34,Solo,29-06-2023
+373,Female,China,35-44,Solo,02-04-2025
+374,Female,Spain,35-44,Couple,28-07-2024
+375,Female,United Kingdom,45-54,Couple,30-07-2023
+376,Other,United Kingdom,25-34,Couple,05-05-2023
+377,Other,Brazil,55+,Business,08-08-2024
+378,Male,Brazil,35-44,Family,26-05-2021
+379,Male,United States,45-54,Business,04-06-2024
+380,Female,China,35-44,Family,31-12-2020
+381,Female,United Kingdom,18-24,Couple,01-07-2023
+382,Male,South Africa,45-54,Family,23-08-2024
+383,Male,Japan,45-54,Business,05-05-2024
+384,Female,Germany,55+,Couple,15-06-2025
+385,Male,Brazil,45-54,Solo,19-07-2025
+386,Female,Brazil,35-44,Family,17-06-2024
+387,Other,Canada,18-24,Business,07-07-2022
+388,Male,Netherlands,35-44,Family,16-12-2022
+389,Female,Turkey,25-34,Couple,17-01-2024
+390,Female,Australia,35-44,Business,12-04-2024
+391,Female,United States,45-54,Couple,01-08-2023
+392,Male,Brazil,35-44,Family,14-12-2020
+393,Female,Brazil,18-24,Business,07-02-2025
+394,Female,China,35-44,Solo,09-11-2024
+395,Male,Argentina,45-54,Couple,04-02-2024
+396,Male,United States,35-44,Couple,04-05-2022
+397,Male,Canada,35-44,Family,28-07-2022
+398,Male,Canada,55+,Family,22-04-2022
+399,Male,United States,18-24,Couple,30-08-2024
+400,Female,Germany,25-34,Solo,16-10-2024
+401,Female,United Arab Emirates,25-34,Solo,06-07-2021
+402,Male,United Kingdom,18-24,Solo,21-02-2025
+403,Male,France,25-34,Business,29-04-2021
+404,Male,Canada,25-34,Family,23-12-2023
+405,Male,France,35-44,Business,06-12-2023
+406,Female,Australia,25-34,Solo,11-12-2021
+407,Male,Mexico,25-34,Solo,28-01-2021
+408,Male,China,35-44,Couple,01-01-2025
+409,Male,China,35-44,Family,20-04-2025
+410,Male,United Kingdom,45-54,Couple,21-02-2023
+411,Male,Canada,25-34,Couple,15-07-2021
+412,Female,Australia,45-54,Business,26-01-2023
+413,Female,Japan,35-44,Family,27-08-2024
+414,Male,France,55+,Business,14-09-2022
+415,Male,Thailand,55+,Family,18-10-2020
+416,Male,Australia,45-54,Business,27-10-2022
+417,Female,Canada,45-54,Couple,19-07-2021
+418,Male,China,55+,Business,02-06-2021
+419,Other,Germany,35-44,Couple,28-06-2022
+420,Other,United Arab Emirates,35-44,Couple,28-11-2023
+421,Male,United Kingdom,45-54,Business,24-11-2021
+422,Male,Brazil,35-44,Business,04-11-2021
+423,Female,Australia,35-44,Couple,21-01-2025
+424,Female,Mexico,25-34,Couple,11-11-2023
+425,Male,United Kingdom,35-44,Solo,05-05-2021
+426,Female,United Arab Emirates,25-34,Family,20-08-2021
+427,Female,China,25-34,Business,20-08-2023
+428,Female,Netherlands,45-54,Solo,01-12-2021
+429,Female,Germany,35-44,Couple,25-10-2020
+430,Other,United States,45-54,Business,09-11-2023
+431,Female,Australia,18-24,Family,28-08-2024
+432,Female,United Kingdom,35-44,Couple,01-04-2025
+433,Male,Brazil,45-54,Couple,20-12-2022
+434,Male,Australia,18-24,Family,02-04-2021
+435,Female,France,35-44,Couple,09-05-2024
+436,Other,South Korea,18-24,Solo,29-10-2023
+437,Female,Brazil,25-34,Couple,26-01-2025
+438,Female,France,35-44,Family,27-05-2022
+439,Male,Russia,25-34,Solo,22-09-2020
+440,Female,China,55+,Solo,22-04-2023
+441,Male,United States,35-44,Solo,29-10-2020
+442,Other,Japan,35-44,Family,22-04-2021
+443,Male,Thailand,25-34,Business,23-08-2022
+444,Female,Thailand,18-24,Couple,26-10-2023
+445,Other,Canada,45-54,Couple,10-01-2023
+446,Female,Brazil,18-24,Family,02-11-2024
+447,Male,United Kingdom,35-44,Couple,15-12-2020
+448,Male,United Kingdom,35-44,Business,17-11-2024
+449,Male,Japan,45-54,Family,12-03-2021
+450,Male,Germany,35-44,Couple,30-11-2023
+451,Female,United States,25-34,Couple,15-01-2025
+452,Male,Russia,25-34,Solo,22-11-2024
+453,Female,United Kingdom,35-44,Couple,28-08-2020
+454,Female,United States,18-24,Solo,29-10-2021
+455,Other,France,45-54,Family,21-05-2025
+456,Male,United Kingdom,25-34,Family,24-05-2023
+457,Female,South Korea,25-34,Couple,22-03-2025
+458,Female,United Kingdom,18-24,Couple,27-04-2023
+459,Female,South Korea,35-44,Business,03-10-2020
+460,Other,China,25-34,Business,21-12-2022
+461,Male,Germany,45-54,Couple,18-07-2023
+462,Male,New Zealand,25-34,Couple,24-02-2021
+463,Female,United Kingdom,35-44,Couple,23-07-2023
+464,Female,United States,35-44,Solo,12-12-2023
+465,Female,Singapore,35-44,Family,09-05-2023
+466,Female,Germany,45-54,Business,23-04-2023
+467,Male,United Kingdom,35-44,Business,22-01-2023
+468,Other,South Korea,55+,Family,22-08-2023
+469,Female,China,45-54,Couple,23-07-2025
+470,Female,Italy,35-44,Couple,26-05-2021
+471,Male,China,25-34,Business,12-06-2024
+472,Male,United States,45-54,Couple,03-12-2022
+473,Male,United Kingdom,18-24,Business,12-02-2021
+474,Female,United States,45-54,Solo,03-01-2021
+475,Male,Turkey,35-44,Family,06-07-2025
+476,Male,United Kingdom,25-34,Family,25-04-2021
+477,Other,Germany,25-34,Couple,06-10-2020
+478,Female,Russia,35-44,Solo,06-06-2025
+479,Male,United Kingdom,35-44,Solo,25-10-2022
+480,Female,Germany,55+,Solo,22-11-2023
+481,Male,United Kingdom,55+,Solo,02-02-2025
+482,Male,Germany,55+,Solo,28-07-2024
+483,Female,United States,45-54,Business,01-02-2024
+484,Male,Germany,45-54,Business,09-06-2025
+485,Female,Spain,55+,Solo,05-10-2023
+486,Male,United States,18-24,Business,20-05-2024
+487,Female,Canada,25-34,Family,01-04-2023
+488,Male,France,45-54,Business,12-04-2023
+489,Female,Australia,18-24,Couple,15-04-2024
+490,Female,Canada,25-34,Couple,17-05-2025
+491,Female,Singapore,25-34,Couple,25-08-2021
+492,Male,Germany,18-24,Family,04-07-2025
+493,Male,United States,35-44,Couple,15-12-2020
+494,Female,Mexico,55+,Couple,26-06-2024
+495,Male,Spain,55+,Couple,01-02-2022
+496,Female,Canada,35-44,Solo,19-07-2023
+497,Female,France,25-34,Couple,17-02-2022
+498,Female,Spain,35-44,Solo,04-03-2025
+499,Male,Germany,35-44,Solo,18-05-2023
+500,Male,Japan,35-44,Business,17-11-2024
