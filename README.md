@@ -21,15 +21,15 @@ The goal of this project is to extract meaningful insights from the available da
 
 hotels_sql_ready → 25 rows (basic hotel information)
 
-reviews_sql_ready → 50,000 rows (customer reviews and ratings)
+reviews_sql_ready → 1000 rows (customer reviews and ratings)
 
-users_sql_ready → 2,000 rows (user demographics and details)
+users_sql_ready → 500 rows (user demographics and details)
 
 🛠️ Tools & Technologies
 
 SQL → Data extraction and query building
 
-Excel / Power BI (optional if used) → Data visualization & dashboards
+Power BI → Data visualization & dashboards
 
 📊 Key Analysis & Insights
 
